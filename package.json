@@ -1,0 +1,23 @@
+{
+  "name": "obs-failover",
+  "version": "0.0.1",
+  "description": "wut",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coral/obs-failover.git"
+  },
+  "keywords": [
+    "obs",
+    "failover"
+  ],
+  "author": "coral",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coral/obs-failover/issues"
+  },
+  "homepage": "https://github.com/coral/obs-failover#readme"
+}
